@@ -1,0 +1,37 @@
+timestamp=1724770042931
+
+[~A]
+LastVerilogToplevel=asyncfifo_tb
+ModifyID=1
+Version=74
+design.sv_testbench.sv=0*723*2194
+
+[~MFT]
+0=5|0work.mgf|2194|0
+1=3|1work.mgf|2710|0
+3=6|3work.mgf|3823|0
+
+[$root]
+A/$root=22|||1*0
+BinL64/$root=3*0
+SLP=3*106
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|c73a565f2ade592f8ac1c68f484c9216895a1c79cacfc0de0b5a5767c382985a
+
+[asyncfifo]
+A/asyncfifo=22|../design.sv|2|1*390
+BinL64/asyncfifo=3*174
+R=../design.sv|2
+SLP=3*1353
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|91671b1a8d289306253af703ad84bacb67fd4c78e6b5277c917925d777dc57938f1877f56d40630df95b8ff605f25bf4
+
+[asyncfifo_tb]
+A/asyncfifo_tb=22|../testbench.sv|3|1*2710
+BinL64/asyncfifo_tb=3*2200
+R=../testbench.sv|3
+SLP=3*3823
+Version=2023.04.112 (Linux64)|00000012789cd32dc9cc4d2d4e4ecc495530cc2bd60762003d9c0658|51885f230440cf22d4a586c6990e407fcdcf6a6ac73f46fb4bbebb34d6137d7af65c684acd290688952ea8b2a37c986f
+
+[~U]
+$root=12|0*0|
+asyncfifo=12|0*182|
+asyncfifo_tb=12|0*455||0x10
